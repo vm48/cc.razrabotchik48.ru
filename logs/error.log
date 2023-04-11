@@ -1,0 +1,1 @@
+2023/04/11 20:04:21 [error] 845227#845227: *612 open() "/home/vm48/cc.razrabotchik48.ru/public/apple-touch-icon-precomposed.png" failed (2: No such file or directory), client: 109.195.3.65, server: cc.razrabotchik48.ru, request: "GET /apple-touch-icon-precomposed.png HTTP/2.0", host: "cc.razrabotchik48.ru"
